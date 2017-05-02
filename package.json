@@ -1,0 +1,19 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "project free code camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fre",
+    "code",
+    "camp"
+  ],
+  "author": "juan l",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
